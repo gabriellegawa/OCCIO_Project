@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrizeDrawTool": {
+      "commandName": "Project",
+      "commandLineArgs": "b y"
+    }
+  }
+}
